@@ -61,5 +61,5 @@ FIFOs can be implemented using various methods:
 In summary, FIFOs are fundamental components in digital design that play a crucial role in managing data flow, buffering, and synchronization. 
 They are widely used in various VLSI and electronic systems to ensure efficient communication, data handling, and coordination among different components.
 
-### all important file are uploaded in my reposetory you can find it thank you
+### All important file are uploaded in my repository you can find it thank you
 
